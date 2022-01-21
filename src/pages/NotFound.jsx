@@ -4,7 +4,7 @@ class NotFound extends Component {
   render() {
     return (
       <div>
-        Desde NotFound
+        404 Not Found
       </div>
     );
   }
